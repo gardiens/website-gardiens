@@ -10,7 +10,27 @@ export default function ClickableCV() {
             <h1 className={styles.AboutMe}>About Me</h1>
             <div className={styles.lines}>
               <span className={styles.MyName}>Hi! I am Pierrick Bournez . </span>
-              <span>I{"'"}m an AI Research student specialised in <b>Deep Learning</b>, <b>Geometric Deep Learning</b> and <b>Theoretical deep Learning</b>. </span>
+<span>
+  I am an AI PhD student at{" "}
+  <a 
+    href="https://mics.centralesupelec.fr/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    CentraleSupélec
+  </a>
+  , in collaboration with{" "}
+  <a 
+    href="https://www.safran-group.com/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    Safran
+  </a>
+  .  <br />
+  
+  My research focuses on <b>Deep Learning</b>, <b>Geometric Deep Learning</b>, and <b>Theoretical Deep Learning</b>.
+</span>
 
               <span className={styles.line}> I discovered that I really like everything related to 2D or 3D. </span>
               <span className={styles.line}>Feedback, suggestions or corrections are highly appreciated!</span>

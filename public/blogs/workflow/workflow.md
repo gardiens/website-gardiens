@@ -38,6 +38,10 @@ This tool has potential, but I do not yet have sufficient experience with it to 
 
 
 ## Tips
+### Accessing research paper:
+If you want to have access to research paper and are in the Paris saclay university, look at [focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?sortby=rank&vid=33UDPS_VU1&lang=fr_FR), it can bypass some paywall ( i.e IEE) even thought the institution are not recognised.
+\\ 
+Otherwise look at [z-lib](https://www.reddit.com/r/zlibrary/wiki/index/access/) and pray.
 ### Writing the Results Section  
 A colleague once recommended a clear structure for writing results:  
 " we have **CAUSE** which causes **PROBLEMS**. therefore we or they do **CONTRIBUTION**  and **WHY WE SOLVE IT**"
